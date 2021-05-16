@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arthur3322
 - 👀 I’m interested in JavaScript,NodeJs,ReactJs
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on google
 - 📫 How to reach me Arthur.kutpanov@gmail.com
 
 <!---
